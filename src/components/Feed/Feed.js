@@ -15,11 +15,11 @@ const Feed = ({ edges }: Props) => (
       <div className={styles['feed__item']} key={edge.node.fields.slug}>
         <div className={styles['feed__item-meta']}>
           <time className={styles['feed__item-meta-time']} dateTime={moment(edge.node.frontmatter.date).format('MMMM D, YYYY')}>
-            {moment(edge.node.frontmatter.date).format('MMMM YYYY')}
+            By
           </time>
           <span className={styles['feed__item-meta-divider']} />
-          <span className={styles['feed__item-meta-category']}>
-            <Link to={edge.node.fields.categorySlug} className={styles['feed__item-meta-category-link']}>{edge.node.frontmatter.category}</Link>
+          <span className={styles['feed__item-meta-author']}>
+           <Link to={edge.node.fields.categorySlug} className={styles['feed__item-meta-author-link']}>{edge.node.frontmatter.author}</Link>
           </span>
         </div>
         <h2 className={styles['feed__item-title']}>

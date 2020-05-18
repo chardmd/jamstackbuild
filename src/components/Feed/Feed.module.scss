@@ -36,23 +36,22 @@
     }
 
     &-meta {
+      font-size: $typographic-small-font-size;
       &-time {
         font-size: $typographic-small-font-size;
         color: $color-base;
         font-weight: 600;
-        text-transform: uppercase;
       }
 
       &-divider {
-        margin: 0 5px;
+        margin: 0 2px;
       }
 
-      &-category {
+      &-author {
         &-link {
           font-size: $typographic-small-font-size;
-          color: $color-secondary;
+          color: $color-gray;
           font-weight: 600;
-          text-transform: uppercase;
 
           &:hover,
           &:focus {
