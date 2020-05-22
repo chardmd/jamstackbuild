@@ -1,7 +1,21 @@
-@import '../../../assets/scss/variables';
-@import '../../../assets/scss/mixins';
+@import "../../../assets/scss/variables";
+@import "../../../assets/scss/mixins";
 
 .subscribe {
+  margin-bottom: 10px;
   color: lighten($color-gray, 18%);
   font-size: $typographic-small-font-size;
+
+  input[type="text"] {
+    margin-right: 10px;
+    color: $color-base;
+    appearance: none;
+    border-radius: 3px;
+    padding: 6px 12px;
+    outline: none;
+  }
+
+  button {
+    font-size: $typographic-base-font-size * 1;
+  }
 }
