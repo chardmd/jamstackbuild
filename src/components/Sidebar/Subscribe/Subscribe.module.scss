@@ -3,13 +3,14 @@
 
 .subscribe {
   margin-bottom: 10px;
-  color: lighten($color-gray, 18%);
   font-size: $typographic-small-font-size;
 
   input[type="text"] {
     color: $color-base;
     appearance: none;
     border-radius: 3px;
+    padding: 5px 10px;
+    border: 1px solid $color-base;
     font-size: $typographic-small-font-size * 1.2;
     max-width: 300px;
     width: 100%;
@@ -25,6 +26,8 @@
     margin-bottom: 10px;
     position: relative;
     border-radius: 2rem;
+    padding: 5px 10px;
+    border: transparent;
     outline: none;
     font-size: $typographic-small-font-size * 1.2;
     &:active {

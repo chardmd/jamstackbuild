@@ -9,7 +9,8 @@ const Subscribe = () => {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    const { result } = await addToMailchimp(email);
+    const res = await addToMailchimp(email);
+    const { result } = res;
     setResponse(result);
   };
 
