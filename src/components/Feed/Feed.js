@@ -18,15 +18,15 @@ const Feed = ({ edges }: Props) => (
             className={styles["feed__item-meta-time"]}
             dateTime={moment(edge.node.frontmatter.date).format("MMMM D, YYYY")}
           >
-            By
+            By {edge.node.frontmatter.author}
           </time>
           <span className={styles["feed__item-meta-divider"]} />
-          <span className={styles["feed__item-meta-author"]}>
+          <span className={styles["feed__item-meta-category"]}>
             <Link
               to={edge.node.fields.categorySlug}
-              className={styles["feed__item-meta-author-link"]}
+              className={styles["feed__item-meta-category-link"]}
             >
-              {edge.node.frontmatter.author}
+              {edge.node.frontmatter.category}
             </Link>
           </span>
         </div>

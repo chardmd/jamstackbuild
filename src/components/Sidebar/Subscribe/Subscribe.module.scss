@@ -20,19 +20,19 @@
 
   .btn {
     color: $color-white;
+    background: $color-secondary;
     text-decoration: none;
     margin-bottom: 10px;
     position: relative;
     border-radius: 2rem;
     outline: none;
     font-size: $typographic-small-font-size * 1.2;
-    background: darken($color-primary, 2);
     &:active {
       top: 2px;
     }
     color: $color-white;
     &:hover {
-      background: $color-secondary;
+      background: $color-primary;
     }
   }
 
