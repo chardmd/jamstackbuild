@@ -206,5 +206,12 @@ module.exports = {
     },
     "gatsby-plugin-flow",
     "gatsby-plugin-optimize-svgs",
+    {
+      resolve: "gatsby-plugin-mailchimp",
+      options: {
+        endpoint:
+          "https://jamstackbuild.us18.list-manage.com/subscribe/post?u=2c05e837056f3f4d923db3014&amp;id=5f81d7f69b",
+      },
+    },
   ],
 };
