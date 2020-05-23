@@ -7,19 +7,22 @@
   font-size: $typographic-small-font-size;
 
   input[type="text"] {
-    margin-right: 10px;
     color: $color-base;
     appearance: none;
     border-radius: 3px;
-    padding: 6px 12px;
+    font-size: 1.2em;
+    max-width: 300px;
+    width: 100%;
     outline: none;
+    display: block;
+    margin-bottom: 10px;
   }
 
   .btn {
-    display: inline-block;
+    display: block;
     color: $color-white;
     text-decoration: none;
-    margin-bottom: 4px;
+    margin-bottom: 10px;
     position: relative;
     border-radius: 2rem;
     outline: none;
@@ -33,4 +36,8 @@
       background: $color-secondary;
     }
   }
+}
+
+@include breakpoint-sm {
+  width: 100%;
 }

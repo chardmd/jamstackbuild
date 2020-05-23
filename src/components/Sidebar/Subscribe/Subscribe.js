@@ -5,7 +5,7 @@ import styles from "./Subscribe.module.scss";
 const Subscribe = () => (
   <div className={styles["subscribe"]}>
     <input type="text" />
-    <button className={styles["btn"]}>Subscribe</button>
+    <button className={styles["btn"]}>Stay Updated</button>
   </div>
 );
 
