@@ -2,7 +2,7 @@
 template: post
 title: The Origins of Social Stationery Lettering
 slug: the-origins-of-social-stationery-lettering
-draft: true
+draft: false
 author: Richard
 socialImage: /media/image-3.jpg
 date: 2016-12-01T22:40:32.169Z
