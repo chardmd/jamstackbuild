@@ -28,7 +28,7 @@ module.exports = {
       email: "",
       facebook: "",
       telegram: "",
-      twitter: "#",
+      twitter: "iamchardmd",
       github: "",
       rss: "",
       vkontakte: "",
