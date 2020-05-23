@@ -28,7 +28,6 @@
   &__subtitle {
     color: $color-base;
     background-color: $color-highlight;
-    max-width: 300px;
     @include line-height(1);
     @include margin-bottom(1);
   }
