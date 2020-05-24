@@ -10,9 +10,14 @@ description: In this tutorial, you will learn how to set up your first gatsby
 category: Getting Started
 tags:
   - Gatsby
+  - Beginner
 ---
-In this tutorial, you will learn how to set up your first [Gatsby](https://www.gatsbyjs.org) development environment that will allow you to create fast and secure sites.
+In this tutorial, you will learn how to set up your first [Gatsby](https://www.gatsbyjs.org) development environment that will allow you to create fast and secure sites. You will learn the tools needed to get started, and execute basic commands.
 
-## Steps
+Tested with:
 
-At the end of the tutorial, you will learn the tools needed to get started, and execute basic commands.
+\- Mac OS 10.15.3
+
+## 1. Install Node.js
+
+1.1 Open your terminal and install [Homebrew](https://brew.sh).
