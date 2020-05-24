@@ -20,8 +20,12 @@ Tested with:
 
 ## 1. Install Node.js
 
-1.1 Open your terminal and install [Homebrew](https://brew.sh). You can also paste the command below in your terminal.
+1.1 Navigate to the [Node.js](https://nodejs.org/en/) and download the recommended the LTS version (recommended to most users). As of this writing, the current LTS version is 12.16.3.
+
+![NodeJs](/media/node.png "NodeJS")
+
+1.2 Open your terminal, and type the command below to verify if node.js has been installed.
 
 ```
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+node -v
 ```
