@@ -42,7 +42,7 @@ module.exports = {
       codepen: "",
       youtube: "",
       soundcloud: "",
-      medium: "#",
+      medium: "@jamstackbuild",
     },
   },
 };
