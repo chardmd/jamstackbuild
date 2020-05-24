@@ -20,7 +20,7 @@ Tested with:
 
 ## 1. Install Node.js
 
-1.1 Open your terminal and install [Homebrew](https://brew.sh).
+1.1 Open your terminal and install [Homebrew](https://brew.sh). You can also paste the command below in your terminal.
 
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
