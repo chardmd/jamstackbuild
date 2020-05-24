@@ -7,7 +7,7 @@ draft: false
 ---
 Hi, my name is [Richard](https://twitter.com/iamchardmd). I started **Jamstackbuild.com** to provide modern static web development tutorials and code snippets for aspiring developers and experienced programmers. The web is rapidly changing and placing more power and capabilities in the hands of designers and front-end developers. If you are curious about static site generators (SSG) or want to learn [JAMstack](https://jamstack.org) in general, then you found the right place.
 
-If you have any questions, feel free to contact me at hello@jamstackbuild.com.
+If you have any questions, feel free to contact me at [hello@jamstackbuild.com](mailto:hello@jamstackbuild.com).
 
 All articles aim to be simple and easy to understand.  Happy coding! :)
 
