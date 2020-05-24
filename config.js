@@ -9,7 +9,9 @@ module.exports = {
   copyright: "2020 © All rights reserved.",
   disqusShortname: "jamstackbuild",
   postsPerPage: 4,
-  googleAnalyticsId: "",
+  googleAnalyticsId: "UA-167517312-1",
+  mailchimpEndpoint:
+    "https://jamstackbuild.us18.list-manage.com/subscribe/post?u=2c05e837056f3f4d923db3014&amp;id=5f81d7f69b",
   useKatex: false,
   menu: [
     {

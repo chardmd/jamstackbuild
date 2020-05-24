@@ -122,16 +122,33 @@ module.exports = {
             resolve: "gatsby-remark-responsive-iframe",
             options: { wrapperStyle: "margin-bottom: 1.0725rem" },
           },
+          {
+            resolve: "gatsby-remark-external-links",
+            options: {
+              target: "_blank",
+              rel: "noopener noreferrer",
+            },
+          },
           "gatsby-remark-autolink-headers",
-          "gatsby-remark-prismjs",
+          {
+            // should be placed after gatsby-remark-autolink-headers
+            resolve: "gatsby-remark-prismjs",
+            options: {
+              inlineCodeMarker: "›",
+            },
+          },
           "gatsby-remark-copy-linked-files",
           "gatsby-remark-smartypants",
-          "gatsby-remark-external-links",
         ],
       },
     },
     "gatsby-transformer-sharp",
-    "gatsby-plugin-sharp",
+    {
+      resolve: "gatsby-plugin-sharp",
+      options: {
+        defaultQuality: 90,
+      },
+    },
     "gatsby-plugin-netlify",
     {
       resolve: "gatsby-plugin-netlify-cms",
@@ -209,15 +226,7 @@ module.exports = {
     {
       resolve: "gatsby-plugin-mailchimp",
       options: {
-        endpoint:
-          "https://jamstackbuild.us18.list-manage.com/subscribe/post?u=2c05e837056f3f4d923db3014&amp;id=5f81d7f69b",
-      },
-    },
-    {
-      resolve: "gatsby-plugin-google-analytics",
-      options: {
-        trackingId: "UA-167517312-1",
-        head: true,
+        endpoint: siteConfig.mailchimpEndpoint,
       },
     },
   ],
