@@ -11,4 +11,8 @@ category: Getting Started
 tags:
   - Gatsby
 ---
-Test
+In this tutorial, you will learn how to set up your first [Gatsby](https://www.gatsbyjs.org) development environment that will allow you to create fast and secure sites.
+
+## Steps
+
+At the end of the tutorial, you will learn the tools needed to get started, and execute basic commands.
