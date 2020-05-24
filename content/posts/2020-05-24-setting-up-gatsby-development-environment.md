@@ -20,7 +20,7 @@ Tested with:
 
 ## 1. Install Node.js
 
-1.1 Navigate to the [Node.js](https://nodejs.org/en/) and download the recommended the LTS version (recommended to most users). As of this writing, the current LTS version is 12.16.3.
+1.1 Navigate to the [Node.js](https://nodejs.org/en/) website and download the recommended the LTS version (recommended to most users). As of this writing, the current LTS version is 12.16.3.
 
 ![NodeJs](/media/node.png "NodeJS")
 
@@ -29,3 +29,7 @@ Tested with:
 ```
 node -v
 ```
+
+## 2. Install Git
+
+2.1 There is a comprehensive tutorial on how to install Git into your computer. Please follow this guide for more information. [Git Installation](https://www.atlassian.com/git/tutorials/install-git)
