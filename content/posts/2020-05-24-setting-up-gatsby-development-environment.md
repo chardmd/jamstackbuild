@@ -1,7 +1,7 @@
 ---
 template: post
-title: Setting up Gatsby Development Environment
-slug: setting-up-gatsby-development-environment
+title: Setup your Gatsby Environment
+slug: setup-your-gatsby-environment
 draft: false
 author: Richard
 date: 2020-05-24T03:02:20.335Z
