@@ -6,7 +6,7 @@ module.exports = {
   title: "Jamstack Build",
   subtitle: "Your ultimate source for JAMstack tutorials on the web",
   copyright: "2020 © All rights reserved.",
-  disqusShortname: "",
+  disqusShortname: "jamstackbuild",
   postsPerPage: 4,
   googleAnalyticsId: "",
   useKatex: false,
