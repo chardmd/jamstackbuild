@@ -22,6 +22,8 @@ Tested with:
 
 1.1 Navigate to the [Node.js](https://nodejs.org/en/) website and download the recommended the LTS version (recommended to most users). 
 
+![node](/media/node.png "node")
+
 1.2 Open your terminal, and type the command below to verify if node.js has been installed.
 
 ```
