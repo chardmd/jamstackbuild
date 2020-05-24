@@ -11,4 +11,4 @@ All published articles aim to be simple and easy to understand.  Happy coding! :
 
 
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/nomad.png)
+![Jamstack Workplace](/media/nomad.png)
