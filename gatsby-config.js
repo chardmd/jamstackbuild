@@ -213,5 +213,12 @@ module.exports = {
           "https://jamstackbuild.us18.list-manage.com/subscribe/post?u=2c05e837056f3f4d923db3014&amp;id=5f81d7f69b",
       },
     },
+    {
+      resolve: "gatsby-plugin-google-analytics",
+      options: {
+        trackingId: "UA-167517312-1",
+        head: true,
+      },
+    },
   ],
 };
