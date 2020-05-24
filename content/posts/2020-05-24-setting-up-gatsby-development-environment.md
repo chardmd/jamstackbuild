@@ -40,7 +40,7 @@ git --version
 
 ## 3. Install Gatsby CLI
 
-3.1 We are going to download `gatsby-cli` via [NPM](https://www.npmjs.com). In your terminal type the command
+3.1 We are going to download gatsby-cli via [NPM](https://www.npmjs.com). In your terminal type the command
 
 ```
 npm install -g gatsby-cli
@@ -53,3 +53,5 @@ Success!
 
 Welcome to the Gatsby CLI! Please visit https://www.gatsbyjs.org/docs/gatsby-cli/ for more information.
 ```
+
+Done.
