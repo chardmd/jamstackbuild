@@ -34,7 +34,7 @@ node --version
 
 2.1 There is a comprehensive guide on how to install Git into your computer. Please follow this guide for more information. [Git Installation](https://www.atlassian.com/git/tutorials/install-git)
 
-2.2 Return back to your terminal, and verify if git was successfully installed
+2.2 Return back to your terminal, and type the command to verify if git was successfully installed
 
 ```
 git --version
