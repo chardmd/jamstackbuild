@@ -1,7 +1,7 @@
 ---
 template: post
-title: Setup your Gatsby Environment
-slug: setup-your-gatsby-environment
+title: Set up your Gatsby Environment
+slug: set-up-your-gatsby-environment
 draft: false
 author: Richard
 date: 2020-05-24T03:02:20.335Z
@@ -20,9 +20,7 @@ Tested with:
 
 ## 1. Install Node.js
 
-1.1 Navigate to the [Node.js](https://nodejs.org/en/) website and download the recommended the LTS version (recommended to most users). As of this writing, the current LTS version is 12.16.3.
-
-![NodeJs](/media/node.png "NodeJS")
+1.1 Navigate to the [Node.js](https://nodejs.org/en/) website and download the recommended the LTS version (recommended to most users). 
 
 1.2 Open your terminal, and type the command below to verify if node.js has been installed.
 
@@ -38,4 +36,12 @@ node --version
 
 ```
 git --version
+```
+
+## 3. Install Gatsby CLI
+
+3.1 We are going to download `gatsby-cli` via [NPM](https://www.npmjs.com). In your terminal type the command
+
+```
+npm install -g gatsby-cli
 ```
