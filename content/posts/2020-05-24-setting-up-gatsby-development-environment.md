@@ -46,6 +46,10 @@ git --version
 npm install -g gatsby-cli
 ```
 
-3.2 You will see this message, if the installation is successful.
+3.2 You will see this message, if the installation was successful.
 
-![success](/media/success.png "success")
+```
+Success!
+
+Welcome to the Gatsby CLI! Please visit https://www.gatsbyjs.org/docs/gatsby-cli/ for more information.
+```
