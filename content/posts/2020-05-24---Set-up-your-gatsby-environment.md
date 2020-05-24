@@ -13,7 +13,7 @@ tags:
   - Gatsby
   - Beginner
 ---
-In this tutorial, you will learn how to set up your first Gatsby development environment that will allow you to create fast and secure sites. You will install the tools needed to get started and execute basic commands.
+In this tutorial, you will learn how to set up your first [Gatsby](https://www.gatsbyjs.org) development environment that will allow you to create fast and secure sites. You will install the tools needed to get started and execute basic commands.
 
 Tested with:
 
