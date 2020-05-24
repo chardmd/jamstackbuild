@@ -20,7 +20,7 @@ Tested with:
 
 ## 1. Install Node.js
 
-1.1 Navigate to the [Node.js](https://nodejs.org/en/) website and download the recommended the LTS version (recommended to most users). 
+1.1 Navigate to the [Node.js](https://nodejs.org/en/) website and download the recommended LTS version (recommended to most users). 
 
 ![node](/media/node.png "node")
 
