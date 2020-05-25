@@ -26,7 +26,6 @@ Tested with:
 
 ```
 gatsby new <name of the starter> <repository of the starter>
-
 ```
 
 For example, i picked this [gatsby-starter-delog](https://www.gatsbyjs.org/starters/W3Layouts/gatsby-starter-delog), the command that i will be typing is:
@@ -37,7 +36,7 @@ gatsby new gatsby-starter-delog https://github.com/W3Layouts/gatsby-starter-delo
 
 ## 2. Running the boilerplate
 
-2.1 Once you have successfully installed the starter, you can go back to your terminal to run the boilerplate:
+2.1 Once you have successfully installed the starter, you can go back to your terminal and run the boilerplate:
 
 ```
   cd <directory name>
@@ -51,6 +50,6 @@ In my example, I will be typing:
   gatsby develop
 ```
 
-2.2 Wait until you see the message "You can now view gatsby-starter-delog in the browser." and navigate to <http://localhost:8000> to view your running application.
+2.2 Wait until you see the message \`You can now view gatsby-starter-delog in the browser.\` and navigate to <http://localhost:8000> to view your running application.
 
 Done. 🙂
