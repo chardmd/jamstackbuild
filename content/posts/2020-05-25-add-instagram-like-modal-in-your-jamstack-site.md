@@ -12,17 +12,18 @@ tags:
   - gatsby
   - modal
 ---
+
 ## 1. Install the plugin
 
 1.1 Type the following command in your terminal:
 
-```
+```shell
 npm install --save gatsby-plugin-modal-routing
 ```
 
 1.2 Add the plugin to your \`gatsby-config-js\` file.
 
-```
+```javascript
 module.exports = {
   plugins: [
     {
@@ -38,7 +39,7 @@ module.exports = {
 
 1.3 You can also customise the modal via passing the css properties.
 
-```
+```javascript
 modalProps: {
   style: {
     overlay: {
@@ -70,17 +71,14 @@ modalProps: {
 
 ## 2. Call the page as a modal
 
-Passed the \`asModal\` property so that your page will be called as a modal.
+Passed the `asModal` property so that your page will be called as a modal.
 
-```
-import { Link } from 'gatsby-plugin-modal-routing'
+```javascript
+import { Link } from "gatsby-plugin-modal-routing";
 
-<Link
-  to="/your-page"
-  asModal
->
-  Login
-</Link>
+<Link to="/your-page" asModal>
+  Open This Page as Modal
+</Link>;
 ```
 
 Done. 🙂
