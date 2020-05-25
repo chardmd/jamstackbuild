@@ -10,6 +10,7 @@ category: Getting Started
 tags:
   - Gatsby
 ---
+
 Gatsby starters provide boilerplate functionalities to bootstrap your project. In this tutorial, you will learn how to pick and choose your gatsby starter for your project.
 
 Tested with:
@@ -30,7 +31,7 @@ gatsby new <name of the starter> <repository of the starter>
 
 For example, i picked this [gatsby-starter-delog](https://www.gatsbyjs.org/starters/W3Layouts/gatsby-starter-delog), the command that i will be typing is:
 
-```
+```shell
 gatsby new gatsby-starter-delog https://github.com/W3Layouts/gatsby-starter-delog
 ```
 
@@ -38,14 +39,14 @@ gatsby new gatsby-starter-delog https://github.com/W3Layouts/gatsby-starter-delo
 
 2.1 Once you have successfully installed the starter, you can go back to your terminal and run the boilerplate:
 
-```
+```shell
  cd <directory name>
  gatsby develop
 ```
 
 In my example, I will be typing:
 
-```
+```shell
  cd gatsby-starter-delog
  gatsby develop
 ```

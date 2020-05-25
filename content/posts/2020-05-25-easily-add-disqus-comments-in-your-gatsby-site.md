@@ -11,13 +11,14 @@ tags:
   - Gatsby
   - Disqus
 ---
+
 Learn how to integrate a commenting system like Disqus in your gatsby site.
 
 ## 1. React Disqus component
 
 Install this component via typing the following command in your terminal:
 
-```
+```shell
 npm install react-disqus-comments
 ```
 
@@ -29,20 +30,24 @@ Create an account in [Disqus](https://disqus.com) and get the "shortname" identi
 
 ## 3. Use the component in your site
 
-3.1 Add the shortname in the component
+3.1 Pass the shortname in the component
 
-```
-import ReactDisqusComments from "react-disqus-comments"
+```javascript
+import ReactDisqusComments from "react-disqus-comments";
 
 <ReactDisqusComments
   shortname="jamstackbuild"
-   identifier="jamstackbuild"
-   title="Example Thread"
-   url="http://localhost:8000"
-/>
+  identifier="jamstackbuild"
+  title="Example Thread"
+  url="http://localhost:8000"
+/>;
 ```
 
-3.2 See the result
+3.2 Run the app and see the result
+
+```shell
+gatsby develop
+```
 
 ![preview](/media/preview.png "preview")
 

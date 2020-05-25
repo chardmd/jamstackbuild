@@ -13,6 +13,7 @@ tags:
   - Gatsby
   - NodeJS
 ---
+
 In this tutorial, you will learn how to set up your first [Gatsby](https://www.gatsbyjs.org) development environment that will allow you to create fast and secure sites. You will install the tools needed to get started and execute basic commands.
 
 Tested with:
@@ -21,13 +22,13 @@ Tested with:
 
 ## 1. Install Node.js
 
-1.1 Navigate to the [Node.js](https://nodejs.org/en/) website and download the recommended LTS version (recommended to most users). 
+1.1 Navigate to the [Node.js](https://nodejs.org/en/) website and download the recommended LTS version (recommended to most users).
 
 ![node](/media/node.png "node")
 
 1.2 Open your terminal, and type the command below to verify if node.js has been installed.
 
-```
+```shell
 node --version
 ```
 
@@ -37,7 +38,7 @@ node --version
 
 2.2 Return back to your terminal, and type the command to verify if git was successfully installed
 
-```
+```shell
 git --version
 ```
 
@@ -45,13 +46,13 @@ git --version
 
 3.1 We are going to download gatsby-cli via [NPM](https://www.npmjs.com). In your terminal type the command
 
-```
+```shell
 npm install -g gatsby-cli
 ```
 
 3.2 You will see this message, if the installation was successful.
 
-```
+```shell
 Success!
 
 Welcome to the Gatsby CLI! Please visit https://www.gatsbyjs.org/docs/gatsby-cli/ for more information.
