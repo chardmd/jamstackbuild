@@ -12,3 +12,13 @@ tags:
   - Vscode
 ---
 Gatsby starters provide boilerplate functionalities to bootstrap your project. In this tutorial, you will learn how to pick and choose your gatsby starter for your project.
+
+Tested with:
+
+\- Mac OS 10.15.3
+
+## 1. Using Gatsby Starters
+
+1.1 Go to this site [gatsby starters](https://www.gatsbyjs.org/starters/?v=2), and pick one from the list.
+
+![starters](/media/starters.png "starters")
