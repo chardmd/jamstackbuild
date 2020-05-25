@@ -9,7 +9,6 @@ description: Gatsby starters provide boilerplate functionalities to bootstrap yo
 category: Getting Started
 tags:
   - Gatsby
-  - Vscode
 ---
 Gatsby starters provide boilerplate functionalities to bootstrap your project. In this tutorial, you will learn how to pick and choose your gatsby starter for your project.
 
@@ -35,3 +34,23 @@ For example, i picked this [gatsby-starter-delog](https://www.gatsbyjs.org/start
 ```
 gatsby new gatsby-starter-delog https://github.com/W3Layouts/gatsby-starter-delog
 ```
+
+## 2. Running the boilerplate
+
+2.1 Once you have successfully installed the starter, you can go back to your terminal to run the boilerplate:
+
+```
+  cd <directory name>
+  gatsby develop
+```
+
+In my example, I will be typing:
+
+```
+  cd gatsby-starter-delog
+  gatsby develop
+```
+
+2.2 Wait until you see the message "You can now view gatsby-starter-delog in the browser." and navigate to <http://localhost:8000> to view your running application.
+
+Done. 🙂
