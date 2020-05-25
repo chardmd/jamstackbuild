@@ -22,3 +22,10 @@ Tested with:
 1.1 Go to this site [gatsby starters](https://www.gatsbyjs.org/starters/?v=2), and pick one from the list.
 
 ![starters](/media/starters.png "starters")
+
+1.2 Once you picked your boilerplate, go to terminal execute the following command:
+
+```
+gatsby new <name of the starter> <repository of the starter>
+
+```
