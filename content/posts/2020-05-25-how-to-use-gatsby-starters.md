@@ -39,15 +39,15 @@ gatsby new gatsby-starter-delog https://github.com/W3Layouts/gatsby-starter-delo
 2.1 Once you have successfully installed the starter, you can go back to your terminal and run the boilerplate:
 
 ```
-  cd <directory name>
-  gatsby develop
+ cd <directory name>
+ gatsby develop
 ```
 
 In my example, I will be typing:
 
 ```
-  cd gatsby-starter-delog
-  gatsby develop
+ cd gatsby-starter-delog
+ gatsby develop
 ```
 
 2.2 Wait until you see the success message and navigate to <http://localhost:8000> to view your running application.
