@@ -1,17 +1,18 @@
 ---
 template: post
-title: Easily add Disqus comments in your Gatsby site
-slug: easily-add-disqus-comments-in-your-gatsby-site
+title: Add Disqus comments in your Gatsby
+slug: add-disqus-comments-in-your-gatsby
 draft: false
 author: Richard
 date: 2020-05-25T03:37:41.564Z
 description: Learn how to integrate a commenting system like Disqus in your gatsby site.
-category: Getting Started
+category: Plugins
 tags:
   - Gatsby
   - Disqus
 ---
-Learn how to integrate a commenting system like Disqus in your gatsby site.
+
+Learn how to integrate a commenting system like Disqus in your jamstack site.
 
 Tested with:
 

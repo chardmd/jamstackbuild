@@ -1,17 +1,23 @@
 ---
 template: post
-title: Add Instagram like modal in your Jamstack site
-slug: add-instagram-like-modal-in-your-jam-stack-site
+title: Add Instagram like modal in your Gatsby
+slug: add-instagram-like-modal-in-your-gatsby
 draft: false
 author: Richard
 date: 2020-05-25T22:36:36.147Z
 description: |
-  We can easily add modal pages in our gatsby site by using this plugin.
+  We can easily add modal pages in our jamstack site by using this plugin.
 category: Plugins
 tags:
   - gatsby
   - modal
 ---
+
+We can easily add modal pages in our jamstack site by using this plugin.
+
+Tested with:
+
+\- Mac OS 10.15.3
 
 ## 1. Install the plugin
 
@@ -21,7 +27,7 @@ tags:
 npm install --save gatsby-plugin-modal-routing
 ```
 
-1.2 Add the plugin to your \`gatsby-config-js\` file.
+1.2 Add the plugin to your `gatsby-config-js` file.
 
 ```javascript
 module.exports = {
