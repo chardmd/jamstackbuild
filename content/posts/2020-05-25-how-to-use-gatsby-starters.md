@@ -29,3 +29,9 @@ Tested with:
 gatsby new <name of the starter> <repository of the starter>
 
 ```
+
+For example, i picked this [gatsby-starter-delog](https://www.gatsbyjs.org/starters/W3Layouts/gatsby-starter-delog), the command that i will be typing is:
+
+```
+gatsby new gatsby-starter-delog https://github.com/W3Layouts/gatsby-starter-delog
+```
