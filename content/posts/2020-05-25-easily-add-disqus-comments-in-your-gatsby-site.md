@@ -15,13 +15,13 @@ Learn how to integrate a commenting system like Disqus in your gatsby site.
 
 ## 1. React Disqus component
 
-Install this plugin via typing the following command in your terminal:
+Install this component via typing the following command in your terminal:
 
 ```
 npm install react-disqus-comments
 ```
 
-## 2. Create a Disqus account
+## 2. Disqus account
 
 Create an account in [Disqus](https://disqus.com) and get the "shortname" identifier.
 
@@ -42,4 +42,8 @@ import ReactDisqusComments from "react-disqus-comments"
 />
 ```
 
+3.2 See the result
+
 ![preview](/media/preview.png "preview")
+
+Done. 🙂
