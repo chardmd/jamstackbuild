@@ -4,8 +4,7 @@ module.exports = {
   url: "https://jamstackbuild.com",
   pathPrefix: "/",
   title: "Jamstack Build",
-  subtitle:
-    "Your source for simple and easy to understand JAMstack tutorials on the web",
+  subtitle: "Simple and easy to understand JAMstack tutorials on the web",
   copyright: "2020 © All rights reserved.",
   disqusShortname: "jamstackbuild",
   postsPerPage: 4,
@@ -26,8 +25,7 @@ module.exports = {
   author: {
     name: "Jamstack Build",
     photo: "/photo.jpg",
-    bio:
-      "Your source for simple and easy to understand JAMstack tutorials on the web",
+    bio: "Simple and easy to understand JAMstack tutorials on the web",
     contacts: {
       email: "",
       facebook: "",
