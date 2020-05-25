@@ -50,6 +50,6 @@ In my example, I will be typing:
   gatsby develop
 ```
 
-2.2 Wait until you see the message \`You can now view gatsby-starter-delog in the browser.\` and navigate to <http://localhost:8000> to view your running application.
+2.2 Wait until you see the message `You can now view gatsby-starter-delog in the browser` and navigate to <http://localhost:8000> to view your running application.
 
 Done. 🙂
