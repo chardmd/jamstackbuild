@@ -11,8 +11,11 @@ tags:
   - Gatsby
   - Disqus
 ---
-
 Learn how to integrate a commenting system like Disqus in your gatsby site.
+
+Tested with:
+
+\- Mac OS 10.15.3
 
 ## 1. React Disqus component
 
