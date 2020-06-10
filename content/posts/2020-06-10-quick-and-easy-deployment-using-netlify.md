@@ -14,25 +14,25 @@ Learn how to quickly deploy your Jamstack for FREE via netlify
 
 ## 1. Register an account in Netlify
 
-Register an account in netlify for FREE, and click the 'New Site From Git' button.
+Register an account in netlify for FREE, and click the \`New Site From Git\` button.
 
 ![new site](/media/new-site.png "New site")
 
 ## 2. Choose your git provider
 
-In this tutorial, we will be using github as the provider.
+In this tutorial, we will be using Github as the provider.
 
 ![github](/media/git-provider.png "github")
 
 ## 3. Choose the repository that you want to deploy
 
-Enter your build command and the output directory of the build and click the 'Deploy Site' button.
+Enter your build command and the output directory of the build and click the \`Deploy Site\` button.
 
 ![build](/media/build.png "build")
 
 ## 4. Check the status of your deployment
 
-Click the top row under "Production deploys".
+Click the top row under \`Production deploys\`.
 
 ![deploying](/media/status.png "deploying")
 
