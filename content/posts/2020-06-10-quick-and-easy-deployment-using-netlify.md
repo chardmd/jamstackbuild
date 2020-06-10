@@ -5,11 +5,13 @@ slug: quick-and-easy-deployment-using-netlify
 draft: false
 author: Richard
 date: 2020-06-10T10:58:09.066Z
-description: Quick and Easy Deployment using Netlify
+description: Learn how to quickly deploy your Jamstack app for FREE via Netlify
 category: CI/CD
 tags:
   - Deployment
 ---
+Learn how to quickly deploy your jamstack for FREE via netlify
+
 ## 1. Register an account in Netlify
 
 Register an account in netlify for FREE, and click the 'New Site From Git' button.
