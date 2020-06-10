@@ -10,7 +10,7 @@ category: CI/CD
 tags:
   - Deployment
 ---
-Learn how to quickly deploy your jamstack for FREE via netlify
+Learn how to quickly deploy your Jamstack for FREE via netlify
 
 ## 1. Register an account in Netlify
 
